@@ -1,6 +1,6 @@
 /*
     문제 제목: 벌집
-    주소: https://www.acmicpc.net/problem/2
+    주소: https://www.acmicpc.net/problem/2292
     알고리즘 분류: 수학
     풀이 날짜: 2022-06-01
 */
