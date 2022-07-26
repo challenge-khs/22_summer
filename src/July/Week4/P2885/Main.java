@@ -1,3 +1,10 @@
+/*
+    문제 제목: 초콜릿 식사
+    주소: https://www.acmicpc.net/problem/2885
+    알고리즘 분류: 그리디 알고리즘, 정렬
+    풀이 날짜: 2022-07-25
+*/
+
 package July.Week4.P2885;
 
 import java.io.BufferedReader;
